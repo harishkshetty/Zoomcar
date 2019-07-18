@@ -1,0 +1,15 @@
+.card{
+    width:150px;
+    height:150px;
+    background-color: #fff;
+    border: 1px solid #d8d8d8;
+    margin:10px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.citypic{
+    width:80px;
+    height:80px;
+}
